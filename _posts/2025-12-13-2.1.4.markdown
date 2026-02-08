@@ -1,0 +1,8 @@
+---
+layout: post
+title: OLauncher v2.1.4
+---
+**Changelog:**<br>
+\* Condensed source patch files<br>
+\* Updated the "About OLauncher" tab slightly<br>
+\* "Update Notes" website tab can now navigate between pages within the launcher<br>
