@@ -1,6 +1,5 @@
 ---
 layout: post
-title: About OLauncher
 ---
 The old launcher we all know and love with the quality-of-life features of the new launcher. This aims to support java 8 through modern java.
 
