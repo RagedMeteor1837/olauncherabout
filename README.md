@@ -1,1 +1,1 @@
-Minecraft Classic News Website Replacement
+OLauncher About Website
