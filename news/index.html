@@ -5,7 +5,7 @@ title: Minecraft News
 
 {% for post in paginator.posts %}
   <div style="margin-top:16px">
-    <h3><a href="https://ragedmeteor1837.github.io/mcnews.github.io{{ post.url }}">{{ post.title }}</a></h3>
+    <h3><a href="https://ragedmeteor1837.github.io/olauncherabout{{ post.url }}">{{ post.title }}</a></h3>
     <div class="content">
       {{ post.content }}
     </div>
@@ -14,9 +14,9 @@ title: Minecraft News
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="https://ragedmeteor1837.github.io/mcnews.github.io{{ paginator.previous_page_path }}" class="newer">Newer</a>
+    <a href="https://ragedmeteor1837.github.io/olauncherabout{{ paginator.previous_page_path }}" class="newer">Newer</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="https://ragedmeteor1837.github.io/mcnews.github.io{{ paginator.next_page_path }}" class="older">Older</a>
+    <a href="https://ragedmeteor1837.github.io/olauncherabout{{ paginator.next_page_path }}" class="older">Older</a>
   {% endif %}
 </div>

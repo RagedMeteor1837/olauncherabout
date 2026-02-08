@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://ragedmeteor1837.github.io/mcnews/css/launcher.css">
-    <link rel="icon" href="https://ragedmeteor1837.github.io/mcnews/favicon.ico" />
   </head>
 
   <body style="background-image: url('https://ragedmeteor1837.github.io/mcnews/img/bg_main.png');">
@@ -27,15 +26,14 @@
                   {{ content }}
                   
                   {% if page.next %}
-                    <a href="https://ragedmeteor1837.github.io/mcnews{{ page.next.url }}">Newer</a>
+                    <a href="https://ragedmeteor1837.github.io/olauncherabout{{ page.next.url }}">Newer</a>
                   {% endif %}
                   {% if page.previous %}
-                    <a href="https://ragedmeteor1837.github.io/mcnews{{ page.previous.url }}">Older</a>
+                    <a href="https://ragedmeteor1837.github.io/olauncherabout{{ page.previous.url }}">Older</a>
                   {% endif %}
               </div>
             </div>
           </td>
-          {% include sidebar.html %}
         </tr>
       </tbody>
     </table>

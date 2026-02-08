@@ -1,0 +1,6 @@
+---
+layout: post
+title: OLauncher v2.1.2
+---
+**Changelog:**<br>
+\* Fix for authentication issues on versions prior to 1.17<br>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: OLauncher v2.1.0
+---
+**Changelog:**<br>
+\* Changed "Profile" wording to "Instance"<br>
+\* Changed wording of certain items in the "Edit Instance" (formerly "Edit Profile") panel<br>
+\* Added a new "About OLauncher" tab<br>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: OLauncher v2.0.0
+---
+**Changelog:**<br>
+\* Updated news URL<br>
+\* Updated other internal URLs<br>
