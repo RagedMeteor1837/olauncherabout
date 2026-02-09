@@ -5,5 +5,4 @@ title: v2.2.0
 **Changelog:**<br>
 \* Redesigned the *About OLauncher* tab to include release notes and a link to GitHub<br>
 \* Fixed a regression where offline play was not supported in the launcher<br>
-    \- Note: This fix does not yet cache or reuse skins and capes, I'll look into this at some point<br>
 \* Fixed an issue where OLauncher could not parse NeoForge’s date format, causing NeoForge to be unusable<br>
