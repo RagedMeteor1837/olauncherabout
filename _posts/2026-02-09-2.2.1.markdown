@@ -1,0 +1,6 @@
+---
+layout: post
+title: v2.2.1
+---
+**Changelog:**<br>
+\* - Hotfix: Fixed a crash caused by unrecognized fields in newer Fabric versions<br>
