@@ -1,0 +1,6 @@
+---
+layout: post
+title: v2.2.2
+---
+**Changelog:**<br>
+\* Removed the Service Status section of the About OLauncher tab<br>

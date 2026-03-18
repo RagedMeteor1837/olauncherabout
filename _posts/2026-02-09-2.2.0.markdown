@@ -3,6 +3,6 @@ layout: post
 title: v2.2.0
 ---
 **Changelog:**<br>
-\* Redesigned the *About OLauncher* tab to include release notes and a link to GitHub<br>
+\* Redesigned the About OLauncher tab to include release notes and a link to GitHub<br>
 \* Fixed a regression where offline play was not supported in the launcher<br>
 \* Fixed an issue where OLauncher could not parse NeoForge’s date format, causing NeoForge to be unusable<br>
