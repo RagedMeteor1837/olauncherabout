@@ -27,7 +27,7 @@ lang: en
 plugins:
   - jekyll-paginate
 
-paginate: 10
+paginate: 20
 paginate_path: "/news/page/:num"
 # Exclude from processing.
 # The following items will not be processed, by default.
