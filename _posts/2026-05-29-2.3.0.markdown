@@ -1,0 +1,34 @@
+---
+layout: post
+title: v2.3.0
+---
+**CHANGELOG:**<br>
+***New Features:***<br>
+\* Implemented new 26.1+ JVM Arguments<br>
+\* Hugely overhauled update checking and download process<br>
+* There are now stable and development update branches<br>
+* The launcher will now auto download and install the new version<br>
+* This can all be configured with the new "Update Preferences" section of the About tab<br>
+\* Implemented a new "--forceUpdate" launch argument<br>
+
+***Changes:***<br>
+\* Renamed "Instances" back to "Profiles"<br>
+\* Updated AutoOL dependency to accept new launch arguments<br>
+\* Reduced log output of certain unnecessary items<br>
+\* The Update Available dialog no longer shows release notes, and the number of options has been reduced<br>
+\* The "--winTen" launch argument now spoofs a higher build of Windows 10 to work around ZGC compatibility<br>
+\* Removed dead code related to Hopper crash report telemetry<br>
+
+***Bug Fixes:***<br>
+\* Fixed a race condition in version resolution<br>
+\* Fixed a bug where latest Minecraft release appeared as latest snapshot<br>
+\* Corrected detected system architecture<br>
+\* Fixed an issue where the size of the Profile Editor popup would grow exponentially<br>
+\* Fixed an issue where the launcher would serve older versions as current<br>
+\* Fixed bugs with device code login<br>
+
+***External Changes:***<br>
+\* There is now a small Wiki page on this Github with a list of possible launch arguments the launcher accepts<br>
+\* Github Actions now builds all commits from both the master and dev branches<br>
+\* Updated Github Actions workflows to latest versions<br>
+\* This is the first stable major release since this project was relicensed to GPL v3<br><br>
