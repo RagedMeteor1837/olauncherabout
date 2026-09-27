@@ -1,0 +1,8 @@
+---
+layout: post
+title: v2.3.2
+---
+**CHANGELOG:**<br>
+
+***Bug Fixes:***<br>
+\* Fixed duplicate default profiles being created<br>
